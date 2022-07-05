@@ -7,7 +7,7 @@ import {
 } from "firebase/auth";
 import { getFirestore, doc, getDoc, setDoc } from "firebase/firestore";
 
-// Your web app's Firebase configuration
+//Firebase config
 const firebaseConfig = {
   apiKey: "AIzaSyCb_UxY_Rw8qTEFvDW59cd3qPHPnVlR8g8",
   authDomain: "ong-clothing-db-9494.firebaseapp.com",
